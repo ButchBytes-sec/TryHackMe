@@ -3,7 +3,8 @@
 Hi guys and gals! This is Butch again! Bringing you a compiled THM free rooms. This serves as my tracker and I'm doing writeups on some of them. Please enjoy! Credits to [ winterrdog ](https://github.com/winterrdog/) for compiling these!
 <br/>
 
-<h3><span style="color:blue">ATTACK!!</span></h3>
+<h3>ATTACK!!</h3>
+#### $\textcolor{red}{\textsf{ATTACK!!}}$ 
 #
 ## Table of Contents
 
