@@ -1,14 +1,8 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
+# TryHackMe Free Rooms
 
+Credits to [ winterrdog ](https://github.com/winterrdog/) for compiling these THM free rooms. This serves as my tracker and I'm doing writeups on some of them. Please enjoy!
 <br/>
-
-Hey people, here's a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
-
-All the rooms herein, are absolute free. ATTACK!!
-
-## Maintainer
-> ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)*** 
-
+ATTACK!!
 #
 ## Table of Contents
 
