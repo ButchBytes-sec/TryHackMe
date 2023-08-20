@@ -1,6 +1,6 @@
 # TryHackMe Free Rooms
 
-Credits to [ winterrdog ](https://github.com/winterrdog/) for compiling these THM free rooms. This serves as my tracker and I'm doing writeups on some of them. Please enjoy!
+Hi guys and gals! This is Butch again! Bringing you a compiled THM free rooms. This serves as my tracker and I'm doing writeups on some of them. Please enjoy! Credits to [ winterrdog ](https://github.com/winterrdog/) for compiling these!
 <br/>
 ATTACK!!
 #
