@@ -4,7 +4,7 @@ Hi guys and gals! This is Butch again! Bringing you a compiled THM free rooms. T
 <br/>
 
 
-$\textcolor{red}{\textsf{ATTACK!!}}$ 
+<h2>$\textcolor{red}{\textsf{ATTACK!!}}$ </h2>
 #
 ## Table of Contents
 
