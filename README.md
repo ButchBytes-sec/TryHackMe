@@ -15,7 +15,7 @@ Hi guys and gals! This is Butch again! Bringing you a compiled THM free rooms. T
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |                           |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
-| **[Basic Rooms](#basics-rooms)**                   | **10**         |                           |
+| **[Basic Rooms](#basics-rooms)**                   | **10**         |           1                |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
