@@ -12,10 +12,10 @@ Hi guys and gals! This is Butch again! Bringing you a compiled THM free rooms. T
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- |:---------------:|:-------------------------:|
-| **[Introductory Rooms](#intro-rooms)**            | **10**          |                           |
+| **[Introductory Rooms](#intro-rooms)**            | **10**          |           2                |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
-| **[Basic Rooms](#basics-rooms)**                   | **10**         |           1                |
+| **[Basic Rooms](#basics-rooms)**                   | **10**         |                           |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
@@ -49,9 +49,9 @@ Hi guys and gals! This is Butch again! Bringing you a compiled THM free rooms. T
 
 * [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [TryHackMe | Welcome](https://tryhackme.com/room/hello) ✔️
 
-* [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+* [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) ✔️
 
 * [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
